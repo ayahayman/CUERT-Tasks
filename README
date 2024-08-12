@@ -1,0 +1,6 @@
+Selected Components:
+
+1. Microcontroller: Atmega328p
+2. Temperature & Humidity Sensor: DHT22
+3. Motor: MOTOR
+4. Motor Driver: L293D
